@@ -1,4 +1,4 @@
 # Mysql
-Projetos desenvolvido no curso de bando de dados. 
-Através do curso tive a oportunidade de fazer a modelagem de dados, criar tabelas e query, além fazer pesquisas para consulta.
+Exercios proposto no curso bando de dados. 
+Através do curso tive a oportunidade de fazer a modelagem de dados, criar tabelas,query, além fazer pesquisas para consulta no banco de dados.
 
